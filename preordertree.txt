@@ -1,0 +1,1 @@
+50 25 10 5 Null Null 15 Null Null 30 27 Null Null 35 Null Null 75 60 55 Null Null 65 Null Null 85 80 Null Null 95 100 Null Null
